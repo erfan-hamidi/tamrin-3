@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\main.cpp.obj -c C:\\code\\src\\main.cpp",
+  "file": "C:/code/src/main.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\func.cpp.obj -c C:\\code\\src\\func.cpp",
+  "file": "C:/code/src/func.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\course.cpp.obj -c C:\\code\\src\\course.cpp",
+  "file": "C:/code/src/course.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exam.cpp.obj -c C:\\code\\src\\exam.cpp",
+  "file": "C:/code/src/exam.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\question.cpp.obj -c C:\\code\\src\\question.cpp",
+  "file": "C:/code/src/question.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\BlankFillingQuestion.cpp.obj -c C:\\code\\src\\BlankFillingQuestion.cpp",
+  "file": "C:/code/src/BlankFillingQuestion.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\FourChoicesQuestion.cpp.obj -c C:\\code\\src\\FourChoicesQuestion.cpp",
+  "file": "C:/code/src/FourChoicesQuestion.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\answersheet.cpp.obj -c C:\\code\\src\\answersheet.cpp",
+  "file": "C:/code/src/answersheet.cpp"
+},
+{
+  "directory": "C:/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\TextualQuestion.cpp.obj -c C:\\code\\src\\TextualQuestion.cpp",
+  "file": "C:/code/src/TextualQuestion.cpp"
+}
+]
